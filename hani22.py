@@ -406,7 +406,7 @@ def motorola():
     ua = 'Dalvik/2.1.0 (Linux; U; Android ' + Anderson + '; ' + model + ' Build/RTAS31.68-20-2) [FBAN/' + FBAN + ';FBAV/' + cho + '.0.0.13.142;FBPN/' + platform + ';FBLC/es_US;FBBV/' + vir + ';FBCR/GigSky;FBMF/motorola;FBBD/motorola;FBDV/' + model + ';FBSV/11;FBCA/arm64-v8a:null;FBDM/{density=' + str(random.choice(range(1, 4))) + '.75,width=' + waid + ',height=' + hight + '};FB_FW/1;]'
     return ua
 
-logo = '\n\x1b[1;92m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n___  _ _  _     _____\t[\x1b[1;92m✪\x1b[1;32m] Author  :  Md:Ahnaf\n\\  \\/// \\/ \\ |\\/  __/   [\x1b[1;92m✪\x1b[1;32m] Tool    :  PAID OPEN SOURCE \n \\  / | || | //|  \\     [\x1b[1;92m✪\x1b[1;32m] Session :  S2\n /  \\ | || \\// |  /_ \t[\x1b[1;92m✪\x1b[1;32m] Version :  \x1b[1;31mFUCK YOU 🤣\n/__/\\\\_/\\__/  \\____\\\t[━━━━━━━━━━━━━━━━━]\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━                    \n'
+logo = '\n\x1b[1;92m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n___  _ _  _     _____\t[\x1b[1;92m✪\x1b[1;32m] Author  :  HANIA\n\\  \\/// \\/ \\ |\\/  __/   [\x1b[1;92m✪\x1b[1;32m] Tool    :  PAID  \n \\  / | || | //|  \\     [\x1b[1;92m✪\x1b[1;32m] Version :  2.2\n /  \\ | || \\// |  /_ \t[\x1b[1;92m✪\x1b[1;32m] Facebook :  \x1b[1;31m HANIA\n/__/\\\\_/\\__/  \\____\\\t[━━━━━━━━━━━━━━━━━]\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━                    \n'
 
 def HANIA():
     clear()    
